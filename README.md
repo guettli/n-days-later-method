@@ -82,6 +82,10 @@ I have a wife, a healthy child and a disabled child. A have no more spare time f
 
 Even if I had time, I am unsure where to start. I could provide a plugin for thunderbird (PC) or [k9](https://k9mail.github.io/) (Mail user agent for android).
 
+# Solutoins still welcome
+
+Up to now I could not find a matching software gives me what I need. If you have a hint, this would be great, please tell me!
+
 # Asking and Nagging
 
 In the hope to find a n-days-later system for my personal mails I am asking and nagging from time to time:
