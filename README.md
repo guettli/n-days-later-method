@@ -52,6 +52,14 @@ Avoid chats, since they create too many new items. A phone call might be better 
 
 I compare this to playing tennis or badminton. There is **one** ball flying in to your direction. It is up to you to hint the ball forward. Then comes the next ball. There not several balls at once and there is no ball behind you.
 
+# +N Details
+
++N with N being a number between 1 and 31. Greater numbers should not get accepted. This avoids typos. Example 311 if you mean "31".
+
++Nw "w" means "weeks"
+
++Nm "m" means "months".
+
 # Create your own issues
 
 Most issues in my systems get created by me. A lot of ideas come to my mind if I cycle from work to home. Then I stop at the next possible place and create a new issue for me. I do this by writing a mail to my email account at work. I think this is a good way to keep your head free. This way I know this won't get forgotten. Espescialy at friday evening and want to leave the work at work and be open for my wife and family.
