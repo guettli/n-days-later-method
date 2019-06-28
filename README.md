@@ -22,6 +22,7 @@ Step2.
 
  * You need more information to handle this issue? Ask for more info. This reply should be a
 
+![MailThread in Thunderbird Mail User Agent](/thunderbird-mail-thread.png)
 
 
 Avoid chats, since they create too many new items. A phone call might be better then writing a lot of small messages to the same person about the same topic.
