@@ -56,7 +56,7 @@ I compare this to playing tennis or badminton. There is **one** ball flying in t
 
 +N with N being a number between 1 and 31. Greater numbers should not get accepted. This avoids typos. Example 311 if you mean "31".
 
-+Nw "w" means "weeks"
++Nw "w" means "weeks". Numbers greater than 20 should not get accepted.
 
 +Nm "m" means "months".
 
