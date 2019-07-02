@@ -86,6 +86,18 @@ Even if I had time, I am unsure where to start. I could provide a plugin for thu
 
 Up to now I could not find a matching software gives me what I need. If you have a hint, this would be great, please tell me!
 
+# Why not GANTT?
+
+[GANTT Chars](https://en.wikipedia.org/wiki/Gantt_chart) are nice. You definde the dependency (precedence network) relationships between issues and you get a coloful chart. Maybe theis better than pushing issues into the future again and again. But +N is much easier. But why "A vs B"? A system could have both (dependencies between issues and +N) :-)
+
+I think +N is more for personal issues (like mail inbox) and gantt more for project where the issues are handled by several people.
+
+# Learning
+
+You can use +N for learning. If the content of the issue is well known, than you can use +12m (one year). If you think you need to learn this again. Then maybe +10 (ten days) is the right choice.
+
+
+
 # Asking and Nagging
 
 In the hope to find a n-days-later system for my personal mails I am asking and nagging from time to time:
