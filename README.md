@@ -106,3 +106,4 @@ https://softwarerecs.stackexchange.com/questions/62192/inbox-zero-for-android
 
 https://stackoverflow.com/questions/56292398/hide-snooze-issues-in-youtrack
 
+https://github.com/mailpile/Mailpile/issues/1951
