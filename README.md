@@ -3,7 +3,9 @@
 This is a management method which is roughly based on [43Folders](https://en.wikipedia.org/wiki/Tickler_file) and 
 [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done).
 
-You should focus one thing at once.... but not too long.
+You should focus on one thing at once.... but not too long.
+
+You do sequential processing of all issues.
 
 Goal: (Zero Inbox)[https://youtu.be/z9UjeTMb3Yk]
 
