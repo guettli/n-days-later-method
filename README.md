@@ -104,7 +104,7 @@ You can use +N for learning. If the content of the issue is well known, than you
 
 In the hope to find a n-days-later system for my personal mails I am asking and nagging from time to time:
 
-https://softwarerecs.stackexchange.com/questions/62192/inbox-zero-for-android
+https://softwarerecs.stackexchange.com/questions/62192/inbox-zero-tool
 
 https://stackoverflow.com/questions/56292398/hide-snooze-issues-in-youtrack
 
