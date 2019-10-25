@@ -7,7 +7,7 @@ You should focus on one thing at once.... but not too long.
 
 You do sequential processing of all issues.
 
-Goal: (Zero Inbox)[https://youtu.be/z9UjeTMb3Yk]
+Goal: Zero Inbox like explained in this video: https://youtu.be/z9UjeTMb3Yk
 
 Up to now I know only one software which supports it ([modwork](https://www.tbz-pariv.de/produkte/modwork)).
 
@@ -106,6 +106,6 @@ In the hope to find a n-days-later system for my personal mails I am asking and 
 
 https://softwarerecs.stackexchange.com/questions/62192/inbox-zero-tool
 
-https://stackoverflow.com/questions/56292398/hide-snooze-issues-in-youtrack
+https://stackoverflow.com/questions/56292398/hide-snooze-issues-in-youtrack (The corresponding issue at [youtrack](https://youtrack.jetbrains.com/issue/JT-53399) has already three up-votes)
 
 https://github.com/mailpile/Mailpile/issues/1951
