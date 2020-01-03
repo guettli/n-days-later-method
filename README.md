@@ -44,13 +44,13 @@ Case6: You want to do this today, but not now. Use "+" without a number. This wi
 After your action on the first mail it is feasible to see the next message.
 
 
-In GMail unfortunately you see the list of the messages in your inbox.
+In GMail unfortunately (by default) you see the list of the messages in your inbox.
 
 
 But I think this view does not help much. Your eyes go up and down and you are not
 in a actionable state. You can't act on all messages at once.
 
-If you want to change this go to settings/advanced and enable "auto-advance".
+If you want to change this setting in Gmail go to settings/advanced and enable "auto-advance".
 
 
 # Notes
