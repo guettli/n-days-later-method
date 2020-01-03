@@ -19,7 +19,7 @@ I use the term "inbox" to refer to all issues which are waiting for you to get r
 
 # Step1: Take the first issue of your inbox
 
-Take the first issue of your inbox. Avoid looking at the list of all issues in your inbox. This issue should be the newest issue (the one that arrived just some minute ago).
+Take the first issue of your inbox. Avoid looking at the list of all issues in your inbox. The issue you take should be the newest issue (the one that arrived just some minute ago).
 
 # Step2: Act
 
