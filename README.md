@@ -112,7 +112,31 @@ I think +N is more for personal issues (like mail inbox) and gantt more for proj
 
 You can use +N for learning. If the content of the issue is well known, than you can use +12m (one year). If you think you need to learn this again. Then maybe +10 (ten days) is the right choice.
 
+# micromanagement
 
+this is micromanagement? Yes it is.
+
+but micromanagement is evil!
+
+yes, it is evil if you micromanage someone, or if you get micromanaged.
+
+but if you micromanage yourself, then it's fun - if you like it.
+
+# Stress
+
+You think "keeping track of a lot of small things is stress"?
+
+My blood pressure immediately raises if several things need to get done at the same time.
+
+But using above method, is deeply relaxed. You do one thing after the other. 
+
+Just like playing tennis, table tennis or badminton.
+
+It's fun, not stress.
+
+Stress would arise as soon as there are two instead of one ball.
+Close your eyes and imagine this. Playing with one ball let's you focus on one thing and you can act appropriate.
+But two balls at once ... your brain is not capable to handle this.
 
 # Asking and Nagging
 
