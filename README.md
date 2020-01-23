@@ -140,6 +140,17 @@ Stress would arise as soon as there are two instead of one ball.
 Close your eyes and imagine this. Playing with one ball let's you focus on one thing and you can act appropriate.
 But two balls at once ... your brain is not capable to handle this.
 
+# You only have 15 minutes time?
+
+If you have a lot of appointments, then what do you do in the 15 minutes between two video/phone calls?
+
+With n-days-later this is easy. Just start the funky bullshit loop and work on one issue after the other until the next appointment starts.
+
+Without such a system your head would need to do a very difficult task: It would need find an issue to work on.
+
+With n-days-later this kind of thinking is not needed. Since the latest entry is automatically the next one. If there is no new item, then the snoozed issues are your next issues. I love it, if I can avoid thinking :-)
+
+
 # Asking and Nagging
 
 In the hope to find a n-days-later system for my personal mails I am asking and nagging from time to time:
