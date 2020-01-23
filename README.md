@@ -104,7 +104,9 @@ Up to now I could not find a matching software gives me what I need. If you have
 
 # Why not GANTT?
 
-[GANTT Chars](https://en.wikipedia.org/wiki/Gantt_chart) are nice. You definde the dependency (precedence network) relationships between issues and you get a coloful chart. Maybe theis better than pushing issues into the future again and again. But +N is much easier. But why "A vs B"? A system could have both (dependencies between issues and +N) :-)
+[GANTT Chars](https://en.wikipedia.org/wiki/Gantt_chart) are nice. You definde the dependency (precedence network) relationships between issues and you get a fancy coloful chart. Maybe theis better than pushing issues into the future again and again. But +N is much easier. But why "A vs B"? A system could have both (dependencies between issues and +N) :-)
+
+I have a lot of small issues. I would waste too much time creating a dependency between issues. Sometimes I attach a note to an issue: "First xyz, then this issue". This hint points me in the right direction, when the issue pops up again N days later.
 
 I think +N is more for personal issues (like mail inbox) and gantt more for project where the issues are handled by several people.
 
