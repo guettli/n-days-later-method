@@ -17,6 +17,8 @@ I use the term "issue". This could be an issue in a digital issue tracking syste
 
 I use the term "inbox" to refer to all issues which are waiting for you to get read or done.
 
+Since january 2020 I use gmail for my mails/issues. TODO: explain the setup.
+
 # Step1: Take the first issue of your inbox
 
 Take the first issue of your inbox. Avoid looking at the list of all issues in your inbox. The issue you take should be the newest issue (the one that arrived just some minute ago).
