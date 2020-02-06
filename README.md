@@ -13,6 +13,8 @@ Up to now I know only one software which supports it ([modwork](https://www.tbz-
 
 GoogleMail and Fastmail have a "snooze" feature, but n-days-later is a bit more. ([Gmail Snooze](https://support.google.com/mail/answer/7622010), [Fastmail Snooze](https://www.fastmail.com/help/receive/snooze.html))
 
+The gmail plugin [simple notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) is very handy to attach notes to mails.
+
 I use the term "issue". This could be an issue in a digital issue tracking system, an email or a piece of paper if you prefere this. In my context I mostly use it for mails.
 
 I use the term "inbox" to refer to all issues which are waiting for you to get read or done.
