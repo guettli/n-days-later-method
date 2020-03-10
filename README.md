@@ -1,4 +1,4 @@
-# n-days-later-method
+# N days later self-management method
 
 This is a management method which is roughly based on [43Folders](https://en.wikipedia.org/wiki/Tickler_file) and 
 [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done).
