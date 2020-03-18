@@ -9,9 +9,7 @@ You do sequential processing of all issues.
 
 Goal: Zero Inbox like explained in this video: https://youtu.be/z9UjeTMb3Yk
 
-Up to now I know only one software which supports it ([modwork](https://www.tbz-pariv.de/produkte/modwork)).
-
-Gmail and Fastmail have a "snooze" feature, but n-days-later is a bit more. ([Gmail Snooze](https://support.google.com/mail/answer/7622010), [Fastmail Snooze](https://www.fastmail.com/help/receive/snooze.html))
+Up to now I know only one software which supports it ([modwork](https://www.tbz-pariv.de/produkte/modwork)). But Gmail and Fastmail have a "snooze" feature, which can be used for this. ([Gmail Snooze](https://support.google.com/mail/answer/7622010), [Fastmail Snooze](https://www.fastmail.com/help/receive/snooze.html))
 
 The Gmail plugin [simple notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) is very handy to attach notes to mails.
 
