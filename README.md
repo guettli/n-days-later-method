@@ -57,7 +57,7 @@ In the past, I made a distinction between deleting an message and marking it as 
 
 I compare this to playing tennis or badminton. There is **one** ball flying into your direction. It is up to you to hit the ball forward. Then comes the next ball. There not several balls at once and there is no ball behind you.
 
-As soon as there are two messages at once the blood pressure raises. Nevertheless, you need to be interruptable
+As soon as there are two messages at once the blood pressure raises.
 
 # +N Details
 
@@ -119,7 +119,7 @@ My blood pressure immediately raises if several things need to get done at the s
 
 But using the above method is deeply relaxed. You do one thing after the other. 
 
-Just like playing tennis or badminton: hit-observe-act, hit-observe-act, ...
+Just like playing tennis or badminton: hit-observe-move, hit-observe-move, ...
 
 It's fun, not stress.
 
@@ -142,10 +142,14 @@ With n-days-later, this kind of thinking is not needed. Since the latest entry i
 
 # Asking and Nagging
 
-In the hope to find an n-days-later system for my mails I am asking and nagging from time to time:
+In the hope to find a perfect n-days-later system for me I am asking and nagging from time to time:
 
 https://softwarerecs.stackexchange.com/questions/62192/inbox-zero-tool
 
 https://stackoverflow.com/questions/56292398/hide-snooze-issues-in-youtrack (The corresponding issue at [youtrack](https://youtrack.jetbrains.com/issue/JT-53399) has already three up-votes)
 
 https://github.com/mailpile/Mailpile/issues/1951
+
+# Current best solution
+
+Gmail with Simple Notes Plugin. But this is far from perfect. Snoozing an email is not easily done via keyboard.
