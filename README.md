@@ -11,13 +11,11 @@ Goal: Zero Inbox like explained in this video: https://youtu.be/z9UjeTMb3Yk
 
 Up to now, I know only one software which supports it ([modwork](https://www.tbz-pariv.de/produkte/modwork)). But Gmail and Fastmail have a "snooze" feature, which can be used for this. ([Gmail Snooze](https://support.google.com/mail/answer/7622010), [Fastmail Snooze](https://www.fastmail.com/help/receive/snooze.html))
 
-The Gmail plugin [simple notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) is very handy to attach notes to emails.
-
 I use the term "message". This could be an issue in a issue tracking system, an email or a piece of paper if you prefer this. In my context, I mostly use it for mails.
 
 I use the term "inbox" to refer to all messages which are waiting for you to get read or done.
 
-Since January 2020 I use Gmail for my emails/messages. TODO: explain the setup.
+Since January 2020 I use Gmail for my emails/messages.
 
 # Step1: Take the first message of your inbox
 
@@ -25,15 +23,15 @@ Take the first message of your inbox. Avoid looking at the list of all messages 
 
 # Step2: Act
 
-Case1: If you can handle this message in less than five minutes, then do it now. Mark the message as "done". It should be possible to do this without moving the fingers from the keyboard to the mouse. The keyboard shortcut should be easy since you will use it often. Goto Step1.
+Case1: If you can handle this message in less than five minutes, then do it now. Mark the message as "done". It should be possible to do mark the message as "done" without moving the fingers from the keyboard to the mouse. The keyboard shortcut should be easy since you will use it often. Goto Step1.
 
-Case2: You need more information to handle this message? Ask for more info. If the content/topics changes, then please create a new mail.
+Case2: You need more information to handle this message? Ask for more info. If the content/topics changes, then please create a new message.
 
-You replied and asked for information. What now? We are all just humans. Your question will likely get lost because the other person is very busy. This means we need a way to resubmit the current message n days later (in short "+N"). It depends on the context of how long. Maybe +3. This means: put this message to hold and the system should resubmit this message three days later. If today is Monday, then on Thursday should be automatically back in your inbox. Details for the +N spec are below. Now take next mail and goto Step1
+You replied and asked for information. What now? We are all just humans. Your question will likely get lost because the other person is very busy. This means we need a way to resubmit the current message n days (in short "+N"). It depends on the context of how long. Maybe +3. This means: put this message to hold and the system should resubmit this message three days later. If today is Monday, then on Thursday should be automatically back in your inbox. Then you can check if you receieved the answer you asked for. Details for the +N spec are below. Now take next mail and goto Step1
 
-Case3: This is unimportant information? Delete it. Is there a way to avoid this in the future? (For example: unsubscribe from a useless newsletter). Again: Deleting should be possible without moving the fingers from the keyboard to the mouse. Take the next mail and goto Step1.
+Case3: This message is unimportant information? Delete it. Is there a way to avoid this in the future? (For example: unsubscribe from a useless newsletter). Again: Deleting should be possible without moving the fingers from the keyboard to the mouse. Take the next mail and goto Step1.
 
-Case4: A telephone call is needed. Do it. Then write some notes of this conversation into the message. Then mark the message as "done" or +N.
+Case4: A telephone call is needed. Do it. Then write some notes of this conversation into the message. Then mark the message as "done" or +N. The Gmail plugin [simple notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm) is very handy to attach notes to emails.
 
 Case5: You are unsure what to do. No problem, let's think about this again next week: +7. If it can't wait that long, then think about this again tomorrow: +1. If it was important, but not urgent, then +30 helps to think about this again in one month.
 
@@ -41,8 +39,9 @@ Case6: You want to do this today, but not now. Use "+" without a number. This wi
 
 # Step4: Auto-advance
 
-After your action on the first mail, it is feasible to see the next message.
+As soon as you mark an message as done or you use +N the next message should be opened. Like a flipbook. 
 
+After your action on the first mail, it is feasible to see the next message.
 
 In Gmail unfortunately (by default) you see the list of the messages in your inbox. If you want to change this setting in Gmail go to settings/advanced and enable "auto-advance".
 
@@ -51,9 +50,7 @@ in an actionable state. You can't act on all messages at once.
 
 # Notes
 
-As soon as you mark an message as done or you use +N the next message should be opened. Like a flipbook. 
-
-In the past, I made a distinction between deleting an message and marking it as done. Today I just mark everything as done. I try to save energy (if work can be avoided, then I avoid it). Creating two different groups ("done" and "deleted") brings me hardly any value. This save mental energy (See [Thinkg, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow))
+In the past, I made a distinction between deleting an message and marking it as done. Today I just mark everything as done. I try to save energy (if work can be avoided, then I avoid it). Creating two different groups ("done" and "deleted") brings me hardly any value.
 
 
 # Compared to tennis or badminton
