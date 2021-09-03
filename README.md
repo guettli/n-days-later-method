@@ -84,17 +84,13 @@ The basic actions need to be doable with your fingers resting on the keyboards. 
 
 # Mail-User-Agent?
 
-At work I have ([modwork](https://www.tbz-pariv.de/produkte/modwork)), but at home, I don't have it.
+At work I had ([modwork](https://www.tbz-pariv.de/produkte/modwork)), but at home, I don't have it.
 
-Some years ago I tried to implement something like this using IMAP Sub-Folders [ndayslater](https://github.com/guettli/ndayslater) but this needs support from the mail user agent.
-
-I have a wife, a healthy child and a disabled child. I have no more spare time for coding for fun. Sad but true.
-
-Even if I had time, I am unsure where to start. I could provide a plugin for thunderbird (PC) or [k9](https://k9mail.github.io/) (Mail user agent for android).
+With Gmail it works. See [Snooze an email in Gmail](https://support.google.com/mail/answer/7622010).
 
 # Solutions still welcome
 
-Up to now, I could not find a matching software that gives me what I need. If you have a hint, this would be great, please tell me!
+Up to now, I could not find a matching software that gives me what all I need. If you have a hint, this would be great, please tell me!
 
 # Why not GANTT?
 
